@@ -14,14 +14,18 @@ I specialize in **React, Next.js, and TypeScript**, with strong expertise in per
 
 # Skills
 
-### Frontend Development
-React, Next.js, JavaScript (ES6+), TypeScript, Tailwind CSS, Bootstrap, Material UI
+
+
+
+### Languages & Core Technologies
+React, Next.js, JavaScript (ES6+), PHP (OOP, custom plugins, hooks/actions, WP REST API), TypeScript, MySQL, Golang,
+Python, Tailwind CSS, Bootstrap, Material UI
 
 ### State Management
 Redux Toolkit, React Query, Zustand, Recoil
 
 ### Backend Development
-Node.js, Express.js, REST APIs, GraphQL
+Node.js, Express.js, REST APIs, GraphQL, MySQL
 
 ### Databases
 MongoDB, MySQL, Prisma ORM
